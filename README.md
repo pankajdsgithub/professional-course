@@ -2,23 +2,32 @@
 
 ## Government and e-Governance Consulting Edition
 
-This repository is a professional training course framework for government technology consultants working in the Odisha e-Governance context, SeMT, NeGD, and digital government environments.
+This repository is a complete learning and reference pack for professionals who want to become effective in government consulting, e-Governance delivery, project coordination, and executive communication.
 
-## Included materials
-- 12-week learning roadmap
-- 12 modules for documentation, correspondence, project work, procurement, presentations, communication, meetings, and reporting
-- Realistic, fictional project case study for an Odisha department
-- Sample library, templates, and assignment pack
-- Executive presentation, dashboard, and reference PDF
+## What this repository contains
+- full 12-module course structure
+- practical examples and format guidance
+- professional government correspondence samples
+- project and procurement documentation templates
+- executive presentation design guidance
+- stakeholder communication scripts
+- dashboard and Excel reporting templates
+- AI prompt library for documentation support
+- Odisha SeMT simulation case study
+- final capstone and evaluation framework
 
-## Repository structure
-- [00_MASTER_INDEX.md](00_MASTER_INDEX.md)
+## How to use it
+Start with the course roadmap and then go module by module. Each module contains practical guidance and example documents. Use the same case study throughout the training to build continuity and learning depth.
+
+## Primary files
 - [COURSE_CURRICULUM.md](COURSE_CURRICULUM.md)
 - [12_WEEK_LEARNING_ROADMAP.md](12_WEEK_LEARNING_ROADMAP.md)
 - [MASTER_DOCUMENTATION_INDEX.md](MASTER_DOCUMENTATION_INDEX.md)
 - [SAMPLE_LIBRARY_INDEX.md](SAMPLE_LIBRARY_INDEX.md)
 - [WEEK_01_COMPLETE_TRAINING.md](WEEK_01_COMPLETE_TRAINING.md)
 - [WEEK_01_ASSIGNMENTS_EVALUATION.md](WEEK_01_ASSIGNMENTS_EVALUATION.md)
+
+## Module directories
 - [01_Fundamentals](01_Fundamentals)
 - [02_Government_Correspondence](02_Government_Correspondence)
 - [03_Project_Documentation](03_Project_Documentation)
@@ -31,7 +40,6 @@ This repository is a professional training course framework for government techn
 - [10_Odisha_SeMT_Simulation](10_Odisha_SeMT_Simulation)
 - [11_Sample_Library](11_Sample_Library)
 - [12_Assignments_Capstone](12_Assignments_Capstone)
-- [deliverables](deliverables)
 
 ## Important note
-All names, department references, budgets, dates, and project scenarios in this repository are fictional and illustrative, intended for training and learning, and are not official government orders, policy references, or tender notices.
+The content is designed for learning, practice, and professional training. It uses fictional project names, dates, and departments to simulate real-world government consulting contexts and should not be used as an official government order or tender document.

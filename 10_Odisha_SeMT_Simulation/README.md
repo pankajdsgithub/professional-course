@@ -1,20 +1,17 @@
 # Module 10: Odisha SeMT Practical Simulation
 
 ## Objective
-Walk through a realistic end-to-end government IT project lifecycle.
+Walk through a realistic end-to-end government digital project lifecycle.
 
 ## Scenario
-Implementation of an integrated citizen service delivery platform for a fictional Odisha Government department.
+A fictional Odisha government department wants to implement an Integrated Citizen Service Delivery Platform.
 
 ## Lifecycle stages
-- Departmental meeting
-- Requirement gathering
-- Concept note
-- DPR
-- Financial estimation
-- RFP development
-- Technical evaluation
-- Vendor selection
-- Implementation and monitoring
-- UAT and Go-live
-- Closure and performance review
+- departmental meeting
+- requirements gathering
+- concept note
+- DPR and cost estimate
+- tendering and vendor evaluation
+- implementation and monitoring
+- UAT and go-live
+- closure review

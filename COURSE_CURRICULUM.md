@@ -1,66 +1,102 @@
 # Complete Course Curriculum
 
 ## Module 1: Professional Documentation Fundamentals
-Learning outcomes:
-- Understand professional document purpose and audience
-- Prepare structured, polished government documents
-- Apply formatting, version control, and QA checks
-- Use MS Word advanced functions effectively
+- professional purpose and audience
+- structure and formatting of government documents
+- formal writing and official language
+- version control and document tracking
+- MS Word advanced features
+- document quality assurance
 
 ## Module 2: Government & Official Correspondence
-Learning outcomes:
-- Draft letters, office memoranda, notes, notifications, circulars, and reminders
-- Prepare D.O. letters, orders, approvals, and follow-up communications
-- Write formal MoM and ATRs
+- official letters
+- demi-official letters
+- office memoranda
+- office orders
+- notifications
+- circulars
+- meeting invitations
+- reminder letters
+- approval notes
+- file notings
+- MoM and ATR
+- email communication and escalation
 
 ## Module 3: Project Management Documentation
-Learning outcomes:
-- Draft project charter, concept note, DPR, BRD, SRS, FRD, WBS, risk and issue registers
-- Prepare status reports and closure documentation
+- concept note
+- project charter
+- project proposal
+- DPR
+- feasibility report
+- BRD
+- SRS
+- FRD
+- implementation plan
+- project plan
+- WBS
+- risk register
+- issue register
+- RAID log
+- status reports
+- closure report
 
 ## Module 4: Tender & Procurement Documentation
-Learning outcomes:
-- Understand procurement lifecycle and relevant rules
-- Prepare EOI, RFP, RFQ, SoW, ToR, evaluation reports, SLA, MoU, contract reports
-- Differentiate central and Odisha procurement practices
+- EOI, RFQ, and RFP
+- SoW and ToR
+- technical evaluation criteria
+- bid evaluation reports
+- vendor assessment
+- SLA, MoU, and contract management
+- procurement lifecycle awareness
+- GFR, CVC, and GeM considerations
 
 ## Module 5: Executive Presentation Mastery
-Learning outcomes:
-- Design decision-oriented executive slides
-- Create dashboards, infographics, and project presentations
-- Deliver structured Board and review deck narratives
+- executive presentation design
+- government review decks
+- progress presentations
+- strategic roadmap decks
+- dashboard-based storytelling
+- infographic and chart communication
+- decision-oriented slides
 
 ## Module 6: Professional Communication & English
-Learning outcomes:
-- Improve spoken English, executive vocabulary, and diplomatic tone
-- Handle stakeholder communication, escalation, and difficult conversation skills
+- spoken English and executive vocabulary
+- formal emails and diplomatic writing
+- stakeholder communication scripts
+- explaining technical concepts to non-technical officers
+- negotiation and conflict handling
+- role-play and interview practice
 
 ## Module 7: Meeting & Stakeholder Management
-Learning outcomes:
-- Prepare agendas, record decisions, manage MoM, and follow through on actions
-- Coordinate interdepartmental delivery and escalations
+- senior meeting preparation
+- agendas and meeting packs
+- MoM and action tracking
+- interdepartmental coordination
+- delay and risk communication
+- escalation handling
 
 ## Module 8: Data Analysis & Reporting
-Learning outcomes:
-- Use Excel for pivot tables, lookup functions, dashboards, and KPI tracking
-- Prepare budget, schedule, and performance monitoring reports
+- Excel essentials
+- pivot tables
+- XLOOKUP and formula practice
+- conditional formatting
+- KPI dashboards and trackers
+- project monitoring reports
 
 ## Module 9: Advanced Digital Tools
-Learning outcomes:
-- Use MS Word, Excel, PPT, Outlook, Teams, Google Workspace, and project tools
-- Use AI prompts for drafting, summarising, and presentation support
+- Word, Excel, PowerPoint, Outlook, Teams, Google Workspace
+- project tools and collaboration
+- AI-based documentation workflow
+- prompts for drafting, rewriting, and summarisation
 
 ## Module 10: Odisha SeMT Practical Simulation
-Learning outcomes:
-- Walk through the full lifecycle of a fictional government digitisation project
-- Produce all major documents and presentations from concept to closure
+- full lifecycle case study from concept to closure
+- requirement gathering to UAT and project closure
 
 ## Module 11: Executive Communication Mastery
-Learning outcomes:
-- Communicate appropriately with senior officers, department heads, district officers, and vendors
-- Adjust tone, structure, and detail by audience
+- writing and speaking to senior officers
+- communication for secretaries, commissioners, district officers, vendors, and NeGD stakeholders
 
 ## Module 12: Final Professional Certification Project
-Learning outcomes:
-- Complete an end-to-end consultancy assignment
-- Produce a full capstone package for evaluation
+- capstone case and evaluation framework
+- practical end-to-end submission

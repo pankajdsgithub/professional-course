@@ -1,14 +1,11 @@
 # Module 6: Professional Communication & English
 
 ## Objective
-Strengthen spoken and written communication in government and consulting contexts.
+Improve spoken and written communication for professional government and consulting work.
 
-## Major skills
-- Formal English and vocabulary
-- Executive summaries
-- Email etiquette
-- Negotiation and conflict resolution
-- Explaining technical concepts to non-technical officers
-
-## Communication practice
-Use role-play scripts and executive update examples.
+## Topics
+- executive vocabulary
+- formal email writing
+- diplomatic communication
+- pause, clarity, and confidence in speaking
+- explaining technical concepts to non-technical officers

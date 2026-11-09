@@ -1,14 +1,12 @@
 # Module 7: Meeting & Stakeholder Management
 
 ## Objective
-Prepare for senior-level meetings and ensure follow-through.
+Prepare for, conduct, and document high-impact meetings in a professional way.
 
-## Covered areas
-- Meeting agenda preparation
-- Recording decisions and actions
-- Writing MoM and ATR
-- Managing interdepartmental coordination
-- Risk and escalation communication
-
-## Scenario count
-At least 20 realistic government and e-Governance meeting scenarios are included in the training material.
+## Topics
+- agenda preparation
+- meeting discipline
+- decision recording
+- MoM writing
+- action tracking
+- escalation handling

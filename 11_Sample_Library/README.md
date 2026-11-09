@@ -1,10 +1,13 @@
 # Module 11: Sample Library
 
-## Objective
-Build a reusable reference library of professional sample documents for government consulting work.
+## Purpose
+Create a reusable reference library of professional sample documents for learning and adaptation.
 
-## Scope
-This library includes realistic sample categories across correspondence, project documents, procurement, meetings, dashboards, and presentations.
-
-## Sample reference note
-Each sample is illustrative and should be adapted to project-specific facts before use in official work.
+## Included categories
+- correspondence
+- project documentation
+- procurement
+- meeting records
+- presentations
+- dashboards
+- communication examples

@@ -1,15 +1,11 @@
 # Module 8: Data Analysis & Reporting
 
 ## Objective
-Use Excel for project monitoring and reporting.
+Use Excel for performance tracking, dashboards, and management reporting.
 
-## Tools and features
-- Pivot tables
-- XLOOKUP
-- Conditional formatting
-- KPI dashboards
-- Budget tracking
-- Progress monitoring
-
-## Deliverable
-Build a project dashboard for a digital governance initiative.
+## Topics
+- formulas and lookup functions
+- pivot tables
+- conditional formatting
+- KPI dashboard design
+- progress and budget tracking

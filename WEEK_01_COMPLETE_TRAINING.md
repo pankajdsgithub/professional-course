@@ -1,58 +1,42 @@
 # Week 1 Complete Training Material
 
-## Learning Objective
-Build the foundation for professional documentation in government consulting.
+## Outcome
+By the end of Week 1, the learner should be able to:
+- recognize formal document structure
+- write with clear purpose and audience awareness
+- differentiate poor and professional writing
+- maintain basic version control and QA checks
 
-## Topic 1: Principles of Professional Documentation
-A professional document should be:
-- Clear
-- Purpose-driven
-- Fact-based
-- Structured
-- Audience-aware
-- Action-oriented
+## Topic 1: What makes a document professional?
+A professional document must be clear, accurate, objective, concise, actionable, and properly formatted.
 
-## Topic 2: Government Documentation Standards
-Key principles:
-- Use formal language and concise structure
-- Maintain subject, purpose, background, and action points
-- Use standard file references and dates
-- Keep factual and policy distinctions separate
-- Avoid unofficial or personal language
+## Topic 2: Standard structure of a government note
+- subject or title
+- purpose
+- background
+- analysis
+- recommendation
+- decision required
+- annexure if needed
 
-## Topic 3: Document Structure
-Typical structure:
-1. Header
-2. Subject
-3. Purpose
-4. Background
-5. Analysis
-6. Recommendations
-7. Action requested
-8. Annexures
+## Topic 3: Advanced Word features
+- heading styles
+- table of contents
+- track changes
+- comments
+- section breaks
+- version history
+- templates and page numbering
 
-## Topic 4: Writing in Professional English
-Good example:
-"This proposal is submitted for consideration and approval of the implementation framework for the departmental digital service initiative."
+## Topic 4: Professional writing practice
+### Poor writing
+We need to do this project and hope it gets approved.
 
-Poor example:
-"We want to do this project and hope it gets approved soon."
+### Better writing
+This initiative is proposed for approval to enhance service delivery and improve operational efficiency.
 
-## Topic 5: MS Word Advanced Features
-Use:
-- Styles
-- Table of contents
-- Track changes
-- Comments
-- Cross-references
-- Heading numbering
-- Version control notes
-
-## Exercises
-1. Reformat a rough note into official memorandum format.
-2. Draft a cover note for a project proposal.
-3. Add version history to a concept note.
-4. Prepare a standard agenda and action tracker.
+### Excellent writing
+This proposal is submitted for consideration and approval of the departmental digital service enhancement initiative, with the objective of improving citizen access, reducing manual delays, and enabling transparent and accountable service delivery through a digitised workflow.
 
 ## Assignment
-Create a polished 2-page concept note for a fictional digital service project in Odisha.
+Prepare a one-page note for approval of a project initiation workshop for a fictional Odisha department.

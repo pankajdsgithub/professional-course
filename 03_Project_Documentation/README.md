@@ -1,19 +1,16 @@
 # Module 3: Project Management Documentation
 
 ## Objective
-Prepare senior-level project planning and reporting documents.
+Prepare the documents required to plan, monitor, and close a digital government project.
 
-## Core documents
-- Project charter
-- Concept note
+## Key deliverables
+- concept note
+- project charter
+- project proposal
 - DPR
-- Project proposal
 - BRD
 - SRS
 - FRD
-- Project implementation plan
-- Risk register
-- Status report
-
-## Use case
-Digital service platform for a fictional Odisha department.
+- risk register
+- status reports
+- closure report
